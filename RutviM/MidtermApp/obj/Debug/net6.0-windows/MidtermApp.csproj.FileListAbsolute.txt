@@ -1,0 +1,51 @@
+C:\peter\src\pcII\exams\midterm\MidtermApp\bin\Debug\net6.0-windows\MidtermApp.exe
+C:\peter\src\pcII\exams\midterm\MidtermApp\bin\Debug\net6.0-windows\MidtermApp.deps.json
+C:\peter\src\pcII\exams\midterm\MidtermApp\bin\Debug\net6.0-windows\MidtermApp.runtimeconfig.json
+C:\peter\src\pcII\exams\midterm\MidtermApp\bin\Debug\net6.0-windows\MidtermApp.dll
+C:\peter\src\pcII\exams\midterm\MidtermApp\bin\Debug\net6.0-windows\ref\MidtermApp.dll
+C:\peter\src\pcII\exams\midterm\MidtermApp\bin\Debug\net6.0-windows\MidtermApp.pdb
+C:\peter\src\pcII\exams\midterm\MidtermApp\obj\Debug\net6.0-windows\MidtermApp.csproj.AssemblyReference.cache
+C:\peter\src\pcII\exams\midterm\MidtermApp\obj\Debug\net6.0-windows\MidtermApp.MainForm.resources
+C:\peter\src\pcII\exams\midterm\MidtermApp\obj\Debug\net6.0-windows\MidtermApp.csproj.GenerateResource.cache
+C:\peter\src\pcII\exams\midterm\MidtermApp\obj\Debug\net6.0-windows\MidtermApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\peter\src\pcII\exams\midterm\MidtermApp\obj\Debug\net6.0-windows\MidtermApp.AssemblyInfoInputs.cache
+C:\peter\src\pcII\exams\midterm\MidtermApp\obj\Debug\net6.0-windows\MidtermApp.AssemblyInfo.cs
+C:\peter\src\pcII\exams\midterm\MidtermApp\obj\Debug\net6.0-windows\MidtermApp.csproj.CoreCompileInputs.cache
+C:\peter\src\pcII\exams\midterm\MidtermApp\obj\Debug\net6.0-windows\MidtermApp.dll
+C:\peter\src\pcII\exams\midterm\MidtermApp\obj\Debug\net6.0-windows\ref\MidtermApp.dll
+C:\peter\src\pcII\exams\midterm\MidtermApp\obj\Debug\net6.0-windows\MidtermApp.pdb
+C:\peter\src\pcII\exams\midterm\MidtermApp\obj\Debug\net6.0-windows\MidtermApp.genruntimeconfig.cache
+C:\Users\mistr\Desktop\MidTerm\RutviM_mid\MidtermApp\bin\Debug\net6.0-windows\MidtermApp.exe
+C:\Users\mistr\Desktop\MidTerm\RutviM_mid\MidtermApp\bin\Debug\net6.0-windows\MidtermApp.deps.json
+C:\Users\mistr\Desktop\MidTerm\RutviM_mid\MidtermApp\bin\Debug\net6.0-windows\MidtermApp.runtimeconfig.json
+C:\Users\mistr\Desktop\MidTerm\RutviM_mid\MidtermApp\bin\Debug\net6.0-windows\MidtermApp.dll
+C:\Users\mistr\Desktop\MidTerm\RutviM_mid\MidtermApp\bin\Debug\net6.0-windows\MidtermApp.pdb
+C:\Users\mistr\Desktop\MidTerm\RutviM_mid\MidtermApp\obj\Debug\net6.0-windows\MidtermApp.csproj.AssemblyReference.cache
+C:\Users\mistr\Desktop\MidTerm\RutviM_mid\MidtermApp\obj\Debug\net6.0-windows\MidtermApp.RutviM.resources
+C:\Users\mistr\Desktop\MidTerm\RutviM_mid\MidtermApp\obj\Debug\net6.0-windows\MidtermApp.csproj.GenerateResource.cache
+C:\Users\mistr\Desktop\MidTerm\RutviM_mid\MidtermApp\obj\Debug\net6.0-windows\MidtermApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mistr\Desktop\MidTerm\RutviM_mid\MidtermApp\obj\Debug\net6.0-windows\MidtermApp.AssemblyInfoInputs.cache
+C:\Users\mistr\Desktop\MidTerm\RutviM_mid\MidtermApp\obj\Debug\net6.0-windows\MidtermApp.AssemblyInfo.cs
+C:\Users\mistr\Desktop\MidTerm\RutviM_mid\MidtermApp\obj\Debug\net6.0-windows\MidtermApp.csproj.CoreCompileInputs.cache
+C:\Users\mistr\Desktop\MidTerm\RutviM_mid\MidtermApp\obj\Debug\net6.0-windows\MidtermApp.dll
+C:\Users\mistr\Desktop\MidTerm\RutviM_mid\MidtermApp\obj\Debug\net6.0-windows\refint\MidtermApp.dll
+C:\Users\mistr\Desktop\MidTerm\RutviM_mid\MidtermApp\obj\Debug\net6.0-windows\MidtermApp.pdb
+C:\Users\mistr\Desktop\MidTerm\RutviM_mid\MidtermApp\obj\Debug\net6.0-windows\MidtermApp.genruntimeconfig.cache
+C:\Users\mistr\Desktop\MidTerm\RutviM_mid\MidtermApp\obj\Debug\net6.0-windows\ref\MidtermApp.dll
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\MidTerm\RutviM_mid\MidtermApp\bin\Debug\net6.0-windows\MidtermApp.exe
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\MidTerm\RutviM_mid\MidtermApp\bin\Debug\net6.0-windows\MidtermApp.deps.json
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\MidTerm\RutviM_mid\MidtermApp\bin\Debug\net6.0-windows\MidtermApp.runtimeconfig.json
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\MidTerm\RutviM_mid\MidtermApp\bin\Debug\net6.0-windows\MidtermApp.dll
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\MidTerm\RutviM_mid\MidtermApp\bin\Debug\net6.0-windows\MidtermApp.pdb
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\MidTerm\RutviM_mid\MidtermApp\obj\Debug\net6.0-windows\MidtermApp.csproj.AssemblyReference.cache
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\MidTerm\RutviM_mid\MidtermApp\obj\Debug\net6.0-windows\MidtermApp.RutviM.resources
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\MidTerm\RutviM_mid\MidtermApp\obj\Debug\net6.0-windows\MidtermApp.csproj.GenerateResource.cache
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\MidTerm\RutviM_mid\MidtermApp\obj\Debug\net6.0-windows\MidtermApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\MidTerm\RutviM_mid\MidtermApp\obj\Debug\net6.0-windows\MidtermApp.AssemblyInfoInputs.cache
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\MidTerm\RutviM_mid\MidtermApp\obj\Debug\net6.0-windows\MidtermApp.AssemblyInfo.cs
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\MidTerm\RutviM_mid\MidtermApp\obj\Debug\net6.0-windows\MidtermApp.csproj.CoreCompileInputs.cache
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\MidTerm\RutviM_mid\MidtermApp\obj\Debug\net6.0-windows\MidtermApp.dll
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\MidTerm\RutviM_mid\MidtermApp\obj\Debug\net6.0-windows\refint\MidtermApp.dll
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\MidTerm\RutviM_mid\MidtermApp\obj\Debug\net6.0-windows\MidtermApp.pdb
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\MidTerm\RutviM_mid\MidtermApp\obj\Debug\net6.0-windows\MidtermApp.genruntimeconfig.cache
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\MidTerm\RutviM_mid\MidtermApp\obj\Debug\net6.0-windows\ref\MidtermApp.dll
